@@ -5,7 +5,6 @@ import { ReactiveFormsModule } from '@angular/forms';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { ContainerComponent } from './container/container.component';
 import { HeaderComponent } from './header/header.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
 import { NotificationComponent } from './notification/notification.component';
@@ -14,17 +13,20 @@ import { FormsModule } from '@angular/forms';
 import { ProductListComponent } from './product-list/product-list.component';
 import { HttpClientModule } from '@angular/common/http';
 import { ProductDetailsComponent } from './product-details/product-details.component';
+import { ShippingComponent } from './shipping/shipping.component';
+import { CartComponent } from './cart/cart.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    ContainerComponent,
     HeaderComponent,
     TopBarComponent,
     NotificationComponent,
     SearchComponent,
     ProductListComponent,
     ProductDetailsComponent,
+    ShippingComponent,
+    CartComponent,
   ],
   imports: [
     BrowserModule,
@@ -35,8 +37,8 @@ import { ProductDetailsComponent } from './product-details/product-details.compo
     RouterModule.forRoot([
       { path: '', component: ProductListComponent },
       { path: 'products/:productId', component: ProductDetailsComponent },
-      // { path: 'cart', component: CartComponent },
-      // { path: 'shipping', component: ShippingComponent },
+      { path: 'cart', component: CartComponent },
+      { path: 'shipping', component: ShippingComponent },
     ])
   ],
   providers: [],

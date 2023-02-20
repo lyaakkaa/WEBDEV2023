@@ -19,7 +19,7 @@ export interface Product {
       url: 'https://kaspi.kz/shop/p/heimish-all-clean-balm-bal-zam-120-ml-100341040/?c=750000000#!/item',
       image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/he3/h7a/32773972426782/heimish-all-clean-balm-mnogofunkcionalnyj-dla-lica-120-ml-100341040-1-Container.jpg',
       rating: 5,
-      images: ['https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h29/h9f/49837555187742/heimish-all-clean-balm-balzam-120-ml-100341040-2.jpg', 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hb2/h4d/49837555646494/heimish-all-clean-balm-balzam-120-ml-100341040-3.jpg']
+      images: ['https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h29/h9f/49837555187742/heimish-all-clean-balm-balzam-120-ml-100341040-2.jpg', 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hb2/h4d/49837555646494/heimish-all-clean-balm-balzam-120-ml-100341040-3.jpg', 'https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hei/hei76067/l/21.jpg', 'https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hei/hei76067/l/22.jpg', 'https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hei/hei76067/l/15.jpg']
 
 
     },
@@ -31,7 +31,7 @@ export interface Product {
       image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hf3/h27/33085968613406/dr-ceuracle-pro-balance-creamy-cleansing-foam-150-ml-100904391-1-Container.jpg',
       url: 'https://kaspi.kz/shop/p/dr-ceuracle-pro-balance-creamy-cleansing-foam-penka-dlja-litsa-150-ml-100904391/?c=750000000#!/item',
       rating: 5,
-      images: ['https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h29/h9f/49837555187742/heimish-all-clean-balm-balzam-120-ml-100341040-2.jpg', 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hb2/h4d/49837555646494/heimish-all-clean-balm-balzam-120-ml-100341040-3.jpg']
+      images: ['https://cdn.shopify.com/s/files/1/0013/5059/8744/products/20191020_111408000_iOS_800x.jpg?v=1646402613', 'https://static.insales-cdn.com/images/products/1/5621/423179765/penka-pro.jpg', 'https://koreanbeauty.kz/cache/sj_revo/4544334a4c9fa29ea64c3f396ff4dca9.jpeg', 'https://images.satu.kz/189126721_w640_h640_penka-dlya-umyvaniya.jpg', 'https://korealab.by/image/catalog/dr_ceuracle/cleansing/penka_s_probiotikami_dr.ceuracle_pro_balance_creamy_cleansing_foam1.jpg']
 
     },
     {
@@ -42,7 +42,7 @@ export interface Product {
       url: 'https://kaspi.kz/shop/p/cosrx-salicylic-acid-daily-gentle-cleanser-penka-150-ml-100291143/?c=750000000#!/item',
       image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h88/h4d/32736053690398/cosrx-penka-salicylic-acid-daily-gentle-cleanser-150-ml-100291143-1-Container.jpg',
       rating: 5,
-      images: ['https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h29/h9f/49837555187742/heimish-all-clean-balm-balzam-120-ml-100341040-2.jpg', 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hb2/h4d/49837555646494/heimish-all-clean-balm-balzam-120-ml-100341040-3.jpg']
+      images: ['https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h51/h28/32736057229342/cosrx-penka-salicylic-acid-daily-gentle-cleanser-150-ml-100291143-2-Container.jpg', 'https://bbcream.ru/images/detailed/101/Cosrx_Salicylic_Acid_Exfoliating_Cleancer_1.webp']
     },
 
     {
@@ -53,7 +53,7 @@ export interface Product {
       url: 'https://kaspi.kz/shop/p/dr-jart-ctrl-a-teatreement-cleansing-foam-gel--penka-120-ml-100670034/?c=750000000#!/item',
       image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hbf/h70/32920036638750/dr-jart-teatreement-cleansing-foam-mousse-nettoyante-100670034-1-Container.jpg', 
       rating: 5,
-      images: ['https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h29/h9f/49837555187742/heimish-all-clean-balm-balzam-120-ml-100341040-2.jpg', 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hb2/h4d/49837555646494/heimish-all-clean-balm-balzam-120-ml-100341040-3.jpg']
+      images: ['https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/haf/h3f/49838468988958/dr-jart-teatreement-gel-penka-120-ml-100670034-2.jpg', 'https://hollyshop.ru/upload/resize_cache/iblock/0ac/500_0_040cd750bba9870f18aada2478b24840a/Dr.-Jart_-Ctrl-A-Teatreement-Cleansing-Foam.jpg', 'https://hollyshop.ru/upload/resize_cache/iblock/d17/500_0_040cd750bba9870f18aada2478b24840a/10964.970.jpg', 'https://glamskin.kz/wp-content/uploads/2020/01/Snimok-ekrana-2021-01-13-v-18.49.59.png', 'https://glamskin.kz/wp-content/uploads/2020/01/sait-10.jpg' ]
     },
 
     {
@@ -64,7 +64,7 @@ export interface Product {
       url: 'https://kaspi.kz/shop/p/by-wishtrend-green-tea-enzyme-powder-wash-enzimnaja-pudra-110-ml-104744971/?c=750000000#!/item',
       image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h8c/hd7/50536185888798/by-wishtrend-green-tea-enzyme-powder-wash-enzimnaa-pudra-110-ml-104744971-1.jpg',
       rating: 5,
-      images: ['https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h29/h9f/49837555187742/heimish-all-clean-balm-balzam-120-ml-100341040-2.jpg', 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hb2/h4d/49837555646494/heimish-all-clean-balm-balzam-120-ml-100341040-3.jpg']
+      images: ['https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h57/h73/50536186347550/by-wishtrend-green-tea-enzyme-powder-wash-enzimnaa-pudra-110-ml-104744971-2.jpg', 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h20/h58/50536186806302/by-wishtrend-green-tea-enzyme-powder-wash-enzimnaa-pudra-110-ml-104744971-3.jpg', 'https://ir.ozone.ru/s3/multimedia-0/wc1000/6555924492.jpg', 'https://ir.ozone.ru/s3/multimedia-3/wc1000/6555924495.jpg', 'https://ir.ozone.ru/s3/multimedia-5/wc1000/6555924497.jpg']
     },
 
     {
@@ -75,7 +75,7 @@ export interface Product {
       url: 'https://kaspi.kz/shop/p/cerave-ochischajuschii-gel-236-ml-101592349/?c=750000000#!/item',
       image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h41/h3a/34161202429982/cerave-ocisausij-gel-dla-zirnoj-kozi-236-ml-101592349-1-Container.jpg',
       rating: 5,
-      images: ['https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h29/h9f/49837555187742/heimish-all-clean-balm-balzam-120-ml-100341040-2.jpg', 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hb2/h4d/49837555646494/heimish-all-clean-balm-balzam-120-ml-100341040-3.jpg']
+      images: ['https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h28/h2f/50275231105054/cerave-ocisausij-gel-236-ml-101592349-2.jpg', 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h5f/h04/50275231563806/cerave-ocisausij-gel-236-ml-101592349-3.jpg', 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hb8/hfa/50275232022558/cerave-ocisausij-gel-236-ml-101592349-4.jpg', 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h1a/h17/50275232481310/cerave-ocisausij-gel-236-ml-101592349-5.jpg', 'https://basket-01.wb.ru/vol131/part13131/13131310/images/big/1.jpg']
     },
 
     {
@@ -86,7 +86,7 @@ export interface Product {
       url: 'https://kaspi.kz/shop/p/heimish-all-clean-white-clay-foam-penka-150-ml-100397052/?c=750000000#!/item',
       image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h46/h13/49919555338270/heimish-all-clean-white-clay-foam-150-ml-100397052-1-Container.jpg',
       rating: 5,
-      images: ['https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h29/h9f/49837555187742/heimish-all-clean-balm-balzam-120-ml-100341040-2.jpg', 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hb2/h4d/49837555646494/heimish-all-clean-balm-balzam-120-ml-100341040-3.jpg']
+      images: ['https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h93/hf4/49919555797022/heimish-all-clean-white-clay-foam-penka-150-ml-100397052-2.jpg', 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h49/hb8/49919556255774/heimish-all-clean-white-clay-foam-penka-150-ml-100397052-3.jpg', 'https://frangipani-dv.ru/wp-content/uploads/2021/08/i.jpg', 'https://images.satu.kz/196359314_w640_h640_heimish-all-clean.jpg', 'https://shop-cdn1.vigbo.tech/shops/98555/products/17423231/images/2-2d850ac874bedaa45fbe0e7afa54996f.jpeg']
     },
 
 
@@ -98,7 +98,7 @@ export interface Product {
       url: 'https://kaspi.kz/shop/p/compliment-sensitive-gidrofil-noe-maslo-150-ml-102782324/?c=750000000#!/item',
       image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h00/h17/46980528504862/gidrofilnoe-gel-maslo-dla-umyvania-suhoj-i-cuvstvitelnoj-kozi-150-ml-102782324-1.jpg',
       rating: 5,
-      images: ['https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h29/h9f/49837555187742/heimish-all-clean-balm-balzam-120-ml-100341040-2.jpg', 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hb2/h4d/49837555646494/heimish-all-clean-balm-balzam-120-ml-100341040-3.jpg']
+      images: ['https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h70/hd2/46980529029150/gidrofilnoe-gel-maslo-dla-umyvania-suhoj-i-cuvstvitelnoj-kozi-150-ml-102782324-2.jpg', 'https://ir.ozone.ru/s3/multimedia-n/wc1000/6559459967.jpg', 'https://ir.ozone.ru/s3/multimedia-s/wc1000/6032082652.jpg']
     },
 
     {
@@ -109,7 +109,7 @@ export interface Product {
       url: 'https://kaspi.kz/shop/p/heimish-ph-5-5-all-clean-green-penka-30-ml-100371466/?c=750000000#!/item',
       image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h09/h39/32540314075166/heimish-ph-5-5-all-clean-green-foam-30-ml-100371466-1-Container.jpg',
       rating: 4.5,
-      images: ['https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h29/h9f/49837555187742/heimish-all-clean-balm-balzam-120-ml-100341040-2.jpg', 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hb2/h4d/49837555646494/heimish-all-clean-balm-balzam-120-ml-100341040-3.jpg']
+      images: ['https://hollyshop.ru/upload/resize_cache/iblock/979/iz2e4vmqiju23es7td5ummrd62dr79b8/500_0_040cd750bba9870f18aada2478b24840a/Heimish-pH-5.5-All-Clean-Green-Foam.jpg', 'https://hollyshop.ru/upload/resize_cache/iblock/7c8/54ckzddruqxsf2j3gzavd2cmr1c7dy0l/500_0_040cd750bba9870f18aada2478b24840a/Heimish-pH-5.5-All-Clean-Green-Foam_.jpg', 'https://hollyshop.ru/upload/resize_cache/iblock/de5/o4nxg71zi0tygtcib7cw37k1fcrp8h1v/500_0_040cd750bba9870f18aada2478b24840a/Heimish-pH-5.5-All-Clean-Green-Foam_.jpg', 'https://hollyshop.ru/upload/resize_cache/iblock/39c/pyox4gswv0uq3kkpjdj1uyq36zzaayu4/500_0_040cd750bba9870f18aada2478b24840a/Heimish-pH-5.5-All-Clean-Green-Foam_.jpg' , 'https://hollyshop.ru/upload/resize_cache/iblock/df6/ras1wm1b5a0675et1y14jchu839chmfz/500_0_040cd750bba9870f18aada2478b24840a/6019187090.jpg']
     },
 
     {
@@ -120,7 +120,7 @@ export interface Product {
       url: 'https://kaspi.kz/shop/p/vichy-normaderm-phytosolution-intensive-purifying-gel-gel-200-ml-21900207/?c=750000000#!/item',
       image: 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hc7/hba/44987418411038/vichy-normaderm-phytosolution-intensive-purifying-gel-200-ml-21900207-1-Container.jpg',
       rating: 5,
-      images: ['https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h29/h9f/49837555187742/heimish-all-clean-balm-balzam-120-ml-100341040-2.jpg', 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hb2/h4d/49837555646494/heimish-all-clean-balm-balzam-120-ml-100341040-3.jpg']
+      images: ['https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hc7/hba/44987418411038/vichy-normaderm-phytosolution-intensive-purifying-gel-200-ml-21900207-1-Container.jpg', 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h53/h2d/44987418968094/vichy-normaderm-phytosolution-intensive-purifying-gel-200-ml-21900207-2-Container.jpg', 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/h74/ha4/44987419525150/vichy-normaderm-phytosolution-intensive-purifying-gel-200-ml-21900207-3-Container.jpg', 'https://resources.cdn-kaspi.kz/shop/medias/sys_master/images/images/hc7/h71/44987420082206/vichy-normaderm-phytosolution-intensive-purifying-gel-200-ml-21900207-4-Container.jpg']
     }
 
   ];
