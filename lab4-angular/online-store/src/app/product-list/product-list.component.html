@@ -1,0 +1,48 @@
+
+
+<div class="container">
+    
+<div *ngFor="let product of products" class="items">
+
+    <div class="item">
+
+        <div class="info">
+            <img *ngIf="product.image" src="{{ product.image }}" alt="photoProduct" style="display:flex; width: 100px;">
+
+            <h6>
+                <a
+                [title]="product.name + ' details'"
+                [routerLink]="['/products', product.id]">
+                {{ product.name }}
+                </a>
+            </h6>
+
+            <!-- <p *ngIf="product.description">
+                Description: {{ product.description }}
+            </p> -->
+
+            <img *ngIf="product.rating" src="{{ product.rating === 5 ? '/assets/5.jpg' : '/assets/4.5.jpg'}}" alt="photoProduct" style="display:flex; width: 50px; height: auto;">
+
+            <!-- <button type="button" (click)="share()">
+                Share
+            </button> -->
+
+            <!-- <a href="whatsapp://send?text=Hello!"><button type="button" (click)="share()">Share</button></a> -->
+                
+            
+            <a href = "https://telegram.me/share/url?url={{product.url}}&text='Делюсь с вами ссылкой>">
+                <button type="button" (click)="share()">Share</button>
+            </a>
+
+        </div>
+        
+
+    </div>
+
+  
+
+
+
+</div>
+
+</div>

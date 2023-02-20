@@ -1,0 +1,47 @@
+.container{
+    text-align: center;
+    justify-content: center;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    
+
+    /* overflow: hidden;
+    margin: 10px; */
+
+}
+
+.items{
+    display: inline-block;
+}
+
+
+
+/* .item{
+    
+    width: 300px;
+    height: 350px;
+    
+    border: 1px solid rgb(171, 166, 166);
+
+
+} */
+
+.item {
+    box-sizing: border-box;
+    border: 1px solid rgb(171, 166, 166);
+
+  
+    width: 250px; /* Ширина */
+    margin: 0 10px 10px 0; /* Отступы */
+    padding: 10px 0; /* Поля сверху и снизу */
+    text-align: center; /* Выравнивание по центру */
+    
+   }
+
+.info{
+
+    margin: 10px;
+}
