@@ -75,7 +75,7 @@ export class ProductListComponent implements OnInit {
 
   onSearchTextEntered(searchValue: string){
     this.searchText = searchValue;
-    //console.log(this.searchText);
+    // console.log(this.searchText);
   }
 }
 
