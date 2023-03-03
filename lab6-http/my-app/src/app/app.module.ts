@@ -10,6 +10,7 @@ import { AboutComponent } from './pages/about/about.component';
 import { AlbumsComponent } from './pages/albums/albums.component';
 import { AlbumDetailComponent } from './details/album-detail/album-detail.component';
 import { AlbumPhotosComponent } from './details/album-photos/album-photos.component';
+import { NotFoundComponent } from './pages/not-found/not-found.component';
 
 
 @NgModule({
@@ -20,6 +21,7 @@ import { AlbumPhotosComponent } from './details/album-photos/album-photos.compon
     AlbumsComponent,
     AlbumDetailComponent,
     AlbumPhotosComponent,
+    NotFoundComponent,
   ],
   imports: [
     BrowserModule,
